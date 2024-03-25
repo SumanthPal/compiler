@@ -1,0 +1,62 @@
+ Start Typing Code Below the Next Line!!!
+
+ //demo of for loop capabilities
+ for m in range(2){
+     print(_m_);
+   }
+ for y in range(2, 5){
+  print(_y_);
+  }
+  for l in range(1, 10, 2){
+    print(_l_);
+  }
+
+  //error
+  for q in range(){
+  
+  }
+
+
+ //demo of print + var declaration
+ int z = 5;
+ String q = bye;
+ float val = 3.14;
+ boolean state = true;
+
+ print(_z_);
+ print(_q_);
+ print(_state_);
+ print(_val_);
+
+  //demo of if loop
+  if(3 < 5){
+  print("5 is greater than 3")
+  }
+  int b = 5;
+  if(_b < 6){
+  print("hurray!");
+  }
+  int s = 3;
+  if(_b < _s){
+  print("double hurray");
+  }
+
+ //demo of addition; it work similarly for the other vals
+ int x = 3;
+ print(_x_);
+ x = add(_z_,3,4)
+ print(_x_);
+
+
+ //demo of scanner + string concat
+ input str hi;
+ input num good;
+ print(_hi_ " " _good_);
+
+
+
+
+
+
+
+
